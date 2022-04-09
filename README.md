@@ -1,7 +1,7 @@
-# Predicting/Classifying Cancer with Machine Learning
+# Predicting/Classifying Breast Cancer with Machine Learning
 
 ## General Information
-Breast cancer (BC) is one of the most common cancers among women worldwide, 
+Breast cancer is one of the most common cancers among women worldwide, 
 making it a major/significant public health problem in our society.
 Using the dataset from UCI Machine Learning Repository for breast cancer, I
 built several simple but efficient models to classify/predict
